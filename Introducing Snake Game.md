@@ -4,7 +4,7 @@ Made a replica of "Snake Game". where user can control the movement of snake usi
 the score.
 <br />
 <br />
-here are some snaps of actual game running-
+here are some snaps during actual game running-
 <br />
 <br />
 ![alt text](https://github.com/aniketkumargaikwad/snakeGame/blob/main/snaps/Snake%20Game1.png)
