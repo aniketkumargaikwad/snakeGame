@@ -1,0 +1,11 @@
+# snakeGame
+
+Made a replica of "Snake Game". where user can control the movement of snake using navigation switches. Eat more apples, avoiding collision with self and walls to maximize
+the score.
+<br />
+<br />
+here are some snaps of actual game running-
+<br />
+<br />
+![alt text](https://github.com/aniketkumargaikwad/snakeGame/blob/main/Screenshot%20(54)_2.png)
+![alt text](https://github.com/aniketkumargaikwad/snakeGame/blob/main/Screenshot%20(55)_2.png)
