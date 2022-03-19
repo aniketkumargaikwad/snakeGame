@@ -7,5 +7,5 @@ the score.
 here are some snaps of actual game running-
 <br />
 <br />
-![alt text](https://github.com/aniketkumargaikwad/snakeGame/blob/main/Screenshot%20(54)_2.png)
-![alt text](https://github.com/aniketkumargaikwad/snakeGame/blob/main/Screenshot%20(55)_2.png)
+![alt text](https://github.com/aniketkumargaikwad/snakeGame/blob/main/snaps/Snake%20Game1.png)
+![alt text](https://github.com/aniketkumargaikwad/snakeGame/blob/main/snaps/Snake%20Game2.png)
